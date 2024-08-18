@@ -8,7 +8,7 @@
   </div>
 
   <div style="display: inline-block; margin: 10px;">
-    <a href="https://www.hackerrank.com/certificates/iframe/d26e0966df51" target="_blank">
+    <a href="https://www.hackerrank.com/certificates/d26e0966df51" target="_blank">
       <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="HackerRank Certificate" height="50" width="145" />
     </a>
   </div>
