@@ -1,4 +1,12 @@
 # Hi, I'm Bheema Sai Shankar Reddy Sabilla 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/bheema-reddy/bheema-reddy/blob/output/github-contribution-grid-snake.svg
+">
+  <img alt="github contribution grid snake animation" src="https://github.com/bheema-reddy/bheema-reddy/blob/output/github-contribution-grid-snake.svg
+">
+</picture>
+
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=bheema-reddy&style=plastic&color=green" alt = "Profile Views"/>
 </p>
