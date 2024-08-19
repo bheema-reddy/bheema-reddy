@@ -1,3 +1,46 @@
+# Hi, I'm Bheema Sai Shankar Reddy Sabilla 👋
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=bheema-reddy&style=plastic&color=green" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
+
+<a href="https://github.com/BheemaSaiShankarReddySabilla?tab=repositories&q=&type=&language=python&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
+</a>
+<a href="https://github.com/BheemaSaiShankarReddySabilla?tab=repositories&q=&type=&language=html&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
+</a>
+<a href="https://github.com/BheemaSaiShankarReddySabilla?tab=repositories&q=&type=&language=css&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
+</a>
+<a href="https://github.com/BheemaSaiShankarReddySabilla?tab=repositories&q=&type=&language=javascript&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
+</a>
+<a href="https://github.com/BheemaSaiShankarReddySabilla?tab=repositories&q=&type=&language=excel&sort=">
+  <img width="32px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_excel_icon_130611.png">
+</a>
+<a href="https://github.com/BheemaSaiShankarReddySabilla?tab=repositories&q=&type=&language=powerbi&sort=">
+  <img width="32px" src="https://img.icons8.com/color/344/power-bi.png">
+</a>
+<a href="https://github.com/BheemaSaiShankarReddySabilla?tab=repositories&q=&type=&language=mysql&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg">
+</a>
+<a href="https://github.com/BheemaSaiShankarReddySabilla?tab=repositories&q=&type=&language=git&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">
+</a>
+<a href="https://github.com/BheemaSaiShankarReddySabilla?tab=repositories&q=&type=&language=github&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
+</a>
+<a href="https://github.com/BheemaSaiShankarReddySabilla?tab=repositories&q=&type=&language=chatgpt&sort=">
+  <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
+</a>
+
+
+<div align="center">
+
 <div align="center"> 
   <h2 align="center">Certifications</h2>
 
@@ -31,3 +74,5 @@
   <br/>
 
 <br/><br/>
+
+
