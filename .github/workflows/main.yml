@@ -24,8 +24,8 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@latest
         with:
-          github_token: ${{ secrets.GH_PAT }} # Use a PAT if the default token fails
-          branch: master # Update to `main` if that's your default branch
+          github_token: ${{ secrets.GH_PAT }} # Ensure this is set if using PAT
+          branch: master # Change to `main` if that's your default branch
           force: true
 
       - uses: crazy-max/ghaction-github-pages@latest
@@ -33,4 +33,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }} # Use a PAT if needed
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }} # Ensure this is set if using PAT
