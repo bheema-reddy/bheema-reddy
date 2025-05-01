@@ -106,7 +106,7 @@ Leadership, Teamwork, Communication, Time Management
     <td width="32%">
       <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/network.png?raw=true" width="100%">
       <br>
-      <a href="https://github.com/bheema-reddy/network-traffic-analyzer"><strong>Network Traffic Analysis</strong></a><br>
+      <a href="https://github.com/bheema-reddy/Network-Traffic-Analysis-"><strong>Network Traffic Analysis</strong></a><br>
       Python tool to analyze .pcap files, extract metrics like bandwidth & protocol distribution, visualize data, with CLI support.
     </td>
   </tr>
