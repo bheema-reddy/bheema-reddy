@@ -9,10 +9,9 @@
   <a href="#contact">Contact</a>
 </p>
 
-
 ---
 
-# 👋 Hi, I'm Bheema Sai Shankar Reddy Sabilla
+# Hi, I'm Bheema Sai Shankar Reddy Sabilla
 
 <table>
 <tr>
@@ -21,8 +20,8 @@
 </td>
 <td>
 
-🎓 Graduate Student in Computer Science at the University of South Dakota  
-💡 Passionate about Data Engineering, Analytics, and Distributed Systems  
+**Graduate Student** in Computer Science at the University of South Dakota  
+**Passionate** about Data Engineering, Analytics, and Distributed Systems  
 📫 <a href="mailto:bheemasaishankarreddy@gmail.com">bheemasaishankarreddy@gmail.com</a>
 
 </td>
@@ -31,112 +30,110 @@
 
 ---
 
-## 🔎 About
+## About
 
-I’m deeply passionate about data engineering, analytics, and distributed systems. My journey began with curiosity for data and evolved into a strong pursuit of building scalable and efficient solutions.
+I’m deeply passionate about data engineering, analytics, and distributed systems.
 
-- ✅ Designing ETL pipelines  
-- ✅ Managing data lakes and warehouses  
-- ✅ Building serverless AWS data architectures  
-- ✅ Teaching and mentoring through blogs and tutorials
+- Designing ETL pipelines  
+- Managing data lakes and warehouses  
+- Building AWS-based architectures  
+- Teaching and mentoring through blogs and tutorials
 
-🔗 [LinkedIn](https://www.linkedin.com/in/bheema05/) • [GitHub](https://github.com/bheema-reddy) • [📄 Resume](https://github.com/bheema-reddy/bheema-reddy/raw/main/Overleaf_Professional_Resume_Bheema%20(1).pdf)
+🔗 [LinkedIn](https://www.linkedin.com/in/bheema05/) • [GitHub](https://github.com/bheema-reddy) • [Resume](https://github.com/bheema-reddy/bheema-reddy/raw/main/Overleaf_Professional_Resume_Bheema%20(1).pdf)
 
 ---
 
-## 💼 Expertise
+## Expertise
 
 **Data Analyst Intern – Futurense Technologies**  
-- Built and optimized scalable ETL pipelines  
-- Implemented AWS Lambda-based automation  
-- Created dashboards using Tableau & QuickSight
+- Built scalable ETL pipelines  
+- Automated AWS Lambda workflows  
+- Created Tableau & QuickSight dashboards
 
 **Applied AI Lab (2AI), USD**  
-- Worked on reinforcement learning and graph optimization  
-- Conducted performance-driven experimentation  
-- Documented prototype evaluations
+- Research on reinforcement learning & optimization  
+- Prototype experimentation & documentation
 
 **Graduate Research Assistant – USD**  
-- Designed cloud-native Spark workflows  
-- Engineered data lakehouse architectures  
-- Managed complex simulation data
+- Designed Spark-based ETL & lakehouse systems  
+- Handled high-volume scientific simulation data
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Languages & Tools**:  
-`Python`, `SQL`, `PostgreSQL`, `Scala`, `AWS`, `Power BI`, `Tableau`, `Spark`, `Hadoop`, `Apache Ignite`, `NoSQL`  
+Python, SQL, PostgreSQL, Scala, AWS, Tableau, Power BI, Spark, Hadoop, Apache Ignite, NoSQL  
+
 **Core Skills**:  
-`ETL Development`, `Big Data`, `Data Warehousing`, `Visualization`  
+ETL Development, Big Data Pipelines, Data Warehousing, Visualization  
+
 **Soft Skills**:  
-`Leadership`, `Communication`, `Teamwork`, `Time Management`
+Leadership, Teamwork, Communication, Time Management
 
 ---
 
-## 🚀 Projects
+## Projects
 
-- 🔹 **DOE Ignite Pipeline** – Scientific ETL architecture for DOE data  
-- 🔹 **Distributed Computing** – Simulation of parallel algorithms  
-- 🔹 **Network Traffic Analyzer** – CLI-based PCAP metric extractor  
-- 🔹 **Sentiment Analysis** – TF-IDF + Logistic Regression NLP system  
-- 🔹 **Movie Review NLP** – Full pipeline from preprocessing to modeling  
-- 🔹 **CNN Model** – Keras-based deep image classification with visualization
+- **DOE Research** – Apache Ignite pipelines for DOE workloads  
+- **Distributed Computing** – Parallel algorithm simulation in Python  
+- **Network Traffic Analyzer** – CLI for PCAP files  
+- **Sentiment Analysis** – Text classification with TF-IDF  
+- **Movie Review NLP** – Full NLP pipeline with Jupyter  
+- **CNN Image Classification** – TensorFlow/Keras deep learning
 
 ---
 
-## 🎓 Education
+## Education
 
 **M.S. in Computer Science** – University of South Dakota  
 **B.Tech in CSE** – TKR College of Engineering & Technology
 
-**Graduate Seminar**  
-Explored xAI’s Grok 3 & Super Grok: 200K H100 GPUs, DeepSearch, STEM benchmarks
+**Graduate Seminar**:  
+Presented on xAI’s Grok 3 & Super Grok – DeepSearch, STEM, H100 GPUs
 
 **Core Courses**:  
-Distributed Systems, ML, Advanced AI, Reinforcement Learning, Computer Vision  
+Distributed Systems, Machine Learning, Advanced AI, Reinforcement Learning, Computer Vision  
+
 **Electives**:  
 AI, Data Mining, IoT, Information Storage & Retrieval
 
 ---
 
-## 🎯 Goals
+## Goals
 
-To grow into a **Data Engineer** or **Cloud Solutions Architect**, focusing on:
+To become a **Data Engineer** or **Cloud Solutions Architect**, focused on:
 
-- Real-time data pipelines  
-- Serverless and event-driven architecture  
-- Scalable cloud integrations  
-- Open knowledge sharing and mentorship
-
----
-
-## 📜 Certifications
-
-- ✅ [**Python 101 for Data Science – IBM**](https://courses.cognitiveclass.ai/certificates/2037997e6f5c4576ad09e13fc1e30e7d)  
-  `File Handling`, `Decorators`, `Iterators`, `Pipeline Integration`
-
-- ✅ [**Google Data Analytics Professional Certificate – Coursera**](https://www.coursera.org/account/accomplishments/certificate/DVVWQ84AIY13)  
-  `BigQuery`, `GCP Workflows`, `Dashboarding`, `ETL Automation`
+- Real-time systems  
+- Serverless architecture  
+- Scalable cloud platforms  
+- Teaching & mentorship in tech
 
 ---
 
-## 📬 Contact
+## Certifications
+
+- [Python 101 for Data Science – IBM](https://courses.cognitiveclass.ai/certificates/2037997e6f5c4576ad09e13fc1e30e7d)  
+- [Google Data Analytics Professional Certificate – Coursera](https://www.coursera.org/account/accomplishments/certificate/DVVWQ84AIY13)
+
+---
+
+## Contact
 
 📧 Email: bheemasaishankarreddy@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/bheema05/) • [GitHub](https://github.com/bheema-reddy)
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bheema-reddy&theme=monokai&hide_border=true&border_radius=10" width="500" />
+  <img src="https://streak-stats.demolab.com?user=bheema-reddy&theme=transparent&hide_border=true&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000&border_radius=10" width="500" />
 </p>
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## GitHub Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bheema-reddy/bheema-reddy/blob/output/github-contribution-grid-snake-dark.svg">
