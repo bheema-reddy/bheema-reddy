@@ -94,7 +94,7 @@ Leadership, Teamwork, Communication, Time Management
     <td width="32%">
       <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/doe.png?raw=true" width="100%">
       <br>
-      <a href="https://github.com/bheema-reddy/doe-research"><strong>Research Project: DOE</strong></a><br>
+      <a href="https://github.com/bheema-reddy/Research-Project-DOE"><strong>Research Project: DOE</strong></a><br>
       Designed a streamlined Apache Ignite data pipeline to manage scientific HPC workloads for DOE, with automated data integration and centralized orchestration.
     </td>
     <td width="32%">
@@ -114,19 +114,19 @@ Leadership, Teamwork, Communication, Time Management
     <td width="32%">
       <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/sentiment.png?raw=true" width="100%">
       <br>
-      <a href="https://github.com/bheema-reddy/sentiment-analysis"><strong>Sentiment Analysis</strong></a><br>
+      <a href="https://github.com/bheema-reddy/Sentiment_Analysis"><strong>Sentiment Analysis</strong></a><br>
       Classifier built on text datasets using TF-IDF and logistic regression in scikit-learn. Includes training, prediction, and evaluation pipeline.
     </td>
     <td width="32%">
       <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/movienlp.png?raw=true" width="100%">
       <br>
-      <a href="https://github.com/bheema-reddy/movie-review-nlp"><strong>Movie Review Sentiment Analysis</strong></a><br>
+      <a href="https://github.com/bheema-reddy/Movie-Review-Sentiment-Analysis"><strong>Movie Review Sentiment Analysis</strong></a><br>
       Full NLP pipeline in Jupyter Notebook for preprocessing, vectorizing, and training classifiers on movie reviews using TF-IDF & logistic regression.
     </td>
     <td width="32%">
       <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/cnn.png?raw=true" width="100%">
       <br>
-      <a href="https://github.com/bheema-reddy/cnn-image-classification"><strong>CNN Implementation</strong></a><br>
+      <a href="https://github.com/bheema-reddy/CNN-Implementation-"><strong>CNN Implementation</strong></a><br>
       Convolutional architectures built from scratch with TensorFlow/Keras. Focused on image classification and visualizing feature maps.
     </td>
   </tr>
