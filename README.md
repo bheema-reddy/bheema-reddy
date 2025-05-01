@@ -1,14 +1,29 @@
 <p align="center">
-  <a href="#about">About</a> 
-  <a href="#expertise">Expertise</a> 
-  <a href="#skills">Skills</a> 
-  <a href="#projects">Projects</a> 
-  <a href="#education">Education</a> 
-  <a href="#goals">Goals</a> 
-  <a href="#certifications">Certifications</a> 
-  <a href="#contact">Contact</a>
+  <a href="#about">
+    <img src="https://img.shields.io/badge/About-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About" />
+  </a>
+  <a href="#expertise">
+    <img src="https://img.shields.io/badge/Expertise-0d1117?style=for-the-badge&logo=codeforces&logoColor=white" alt="Expertise" />
+  </a>
+  <a href="#skills">
+    <img src="https://img.shields.io/badge/Skills-1f6feb?style=for-the-badge&logo=skillshare&logoColor=white" alt="Skills" />
+  </a>
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/Projects-0366d6?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  </a>
+  <a href="#education">
+    <img src="https://img.shields.io/badge/Education-1164B4?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Education" />
+  </a>
+  <a href="#goals">
+    <img src="https://img.shields.io/badge/Goals-5c2d91?style=for-the-badge&logo=target&logoColor=white" alt="Goals" />
+  </a>
+  <a href="#certifications">
+    <img src="https://img.shields.io/badge/Certifications-22863a?style=for-the-badge&logo=openbadges&logoColor=white" alt="Certifications" />
+  </a>
+  <a href="#contact">
+    <img src="https://img.shields.io/badge/Contact-333333?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact" />
+  </a>
 </p>
-
 
 
 # Hi, I'm Bheema Sai Shankar Reddy Sabilla
