@@ -1,13 +1,14 @@
 <p align="center">
-  <a href="https://github.com/bheema-reddy/bheema-reddy/edit/main/README.md#-about">About</a> •
-  <a href="https://github.com/bheema-reddy/bheema-reddy/edit/main/README.md#-expertise">Expertise</a> •
-  <a href="https://github.com/bheema-reddy/bheema-reddy/edit/main/README.md#%EF%B8%8F-skills">Skills</a> •
-  <a href="https://github.com/bheema-reddy/bheema-reddy/edit/main/README.md#-projects">Projects</a> •
-  <a href="https://github.com/bheema-reddy/bheema-reddy/edit/main/README.md#-education">Education</a> •
-  <a href="https://github.com/bheema-reddy/bheema-reddy/edit/main/README.md#-goals">Goals</a> •
-  <a href="https://github.com/bheema-reddy/bheema-reddy/edit/main/README.md#-certifications">Certifications</a> •
-  <a href="https://github.com/bheema-reddy/bheema-reddy/edit/main/README.md#-contact">Contact</a>
+  <a href="#about">About</a> •
+  <a href="#expertise">Expertise</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#education">Education</a> •
+  <a href="#goals">Goals</a> •
+  <a href="#certifications">Certifications</a> •
+  <a href="#contact">Contact</a>
 </p>
+
 
 ---
 
