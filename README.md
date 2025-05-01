@@ -9,26 +9,30 @@
   <a href="#contact">Contact</a>
 </p>
 
----
+
 
 # Hi, I'm Bheema Sai Shankar Reddy Sabilla
 
-<table>
-<tr>
-<td width="180px">
-  <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/Black%20and%20White%20Editor%20Image.png" width="180px" style="border-radius: 10px;" />
-</td>
-<td>
-
-**Graduate Student** in Computer Science at the University of South Dakota  
-**Passionate** about Data Engineering, Analytics, and Distributed Systems  
-📫 <a href="mailto:bheemasaishankarreddy@gmail.com">bheemasaishankarreddy@gmail.com</a>
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="180" align="center" valign="top">
+      <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/Black%20and%20White%20Editor%20Image.png?raw=true" width="160" alt="Profile Image"/>
+    </td>
+    <td valign="top">
+      <strong>Graduate Student</strong> in Computer Science at the University of South Dakota  
+      <br>
+      Passionate about Data Engineering, Analytics, and Distributed Systems.  
+      <br><br>
+      - 📊 Experienced in building ETL pipelines  
+      - ☁️ AWS, Data Warehousing, Distributed Systems  
+      - 🎓 Researcher | Developer | Mentor  
+    </td>
+  </tr>
 </table>
 
 ---
+
+
 
 ## About
 
@@ -39,10 +43,20 @@ I’m deeply passionate about data engineering, analytics, and distributed syste
 - Building AWS-based architectures  
 - Teaching and mentoring through blogs and tutorials
 
-🔗 [LinkedIn](https://www.linkedin.com/in/bheema05/) • [GitHub](https://github.com/bheema-reddy) • [Resume](https://github.com/bheema-reddy/bheema-reddy/blob/main/Overleaf_Professional_Resume_Bheema%20(1).pdf)
-
-
----
+<p align="center">
+  <a href="mailto:bheemasaishankarreddy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/bheema05/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/bheema-reddy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/bheema-reddy/bheema-reddy/raw/main/Overleaf_Professional_Resume_Bheema%20(1).pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
 ## Expertise
 
@@ -75,15 +89,48 @@ Leadership, Teamwork, Communication, Time Management
 ---
 
 ## Projects
-
-- **DOE Research** – Apache Ignite pipelines for DOE workloads  
-- **Distributed Computing** – Parallel algorithm simulation in Python  
-- **Network Traffic Analyzer** – CLI for PCAP files  
-- **Sentiment Analysis** – Text classification with TF-IDF  
-- **Movie Review NLP** – Full NLP pipeline with Jupyter  
-- **CNN Image Classification** – TensorFlow/Keras deep learning
-
----
+<table>
+  <tr>
+    <td width="32%">
+      <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/doe.png?raw=true" width="100%">
+      <br>
+      <a href="https://github.com/bheema-reddy/doe-research"><strong>Research Project: DOE</strong></a><br>
+      Designed a streamlined Apache Ignite data pipeline to manage scientific HPC workloads for DOE, with automated data integration and centralized orchestration.
+    </td>
+    <td width="32%">
+      <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/distributed.png?raw=true" width="100%">
+      <br>
+      <a href="https://github.com/bheema-reddy/distributed-computing"><strong>Distributed Computing</strong></a><br>
+      Simulations and performance comparisons of parallel & distributed algorithms using Python. Focus on synchronization, task scheduling, and memory.
+    </td>
+    <td width="32%">
+      <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/network.png?raw=true" width="100%">
+      <br>
+      <a href="https://github.com/bheema-reddy/network-traffic-analyzer"><strong>Network Traffic Analysis</strong></a><br>
+      Python tool to analyze .pcap files, extract metrics like bandwidth & protocol distribution, visualize data, with CLI support.
+    </td>
+  </tr>
+  <tr>
+    <td width="32%">
+      <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/sentiment.png?raw=true" width="100%">
+      <br>
+      <a href="https://github.com/bheema-reddy/sentiment-analysis"><strong>Sentiment Analysis</strong></a><br>
+      Classifier built on text datasets using TF-IDF and logistic regression in scikit-learn. Includes training, prediction, and evaluation pipeline.
+    </td>
+    <td width="32%">
+      <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/movienlp.png?raw=true" width="100%">
+      <br>
+      <a href="https://github.com/bheema-reddy/movie-review-nlp"><strong>Movie Review Sentiment Analysis</strong></a><br>
+      Full NLP pipeline in Jupyter Notebook for preprocessing, vectorizing, and training classifiers on movie reviews using TF-IDF & logistic regression.
+    </td>
+    <td width="32%">
+      <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/cnn.png?raw=true" width="100%">
+      <br>
+      <a href="https://github.com/bheema-reddy/cnn-image-classification"><strong>CNN Implementation</strong></a><br>
+      Convolutional architectures built from scratch with TensorFlow/Keras. Focused on image classification and visualizing feature maps.
+    </td>
+  </tr>
+</table>
 
 ## Education
 
@@ -121,10 +168,24 @@ To become a **Data Engineer** or **Cloud Solutions Architect**, focused on:
 
 ## Contact
 
-📧 Email: bheemasaishankarreddy@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/bheema05/) • [GitHub](https://github.com/bheema-reddy)
+---
+
+<p align="center">
+  <a href="mailto:bheemasaishankarreddy@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/bheema05/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bheema-reddy">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+</p>
 
 ---
+
 
 ## GitHub Streak
 
