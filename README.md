@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="#about">About</a> •
-  <a href="#expertise">Expertise</a> •
-  <a href="#skills">Skills</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#education">Education</a> •
-  <a href="#goals">Goals</a> •
-  <a href="#certifications">Certifications</a> •
+  <a href="#about">About</a> 
+  <a href="#expertise">Expertise</a> 
+  <a href="#skills">Skills</a> 
+  <a href="#projects">Projects</a> 
+  <a href="#education">Education</a> 
+  <a href="#goals">Goals</a> 
+  <a href="#certifications">Certifications</a> 
   <a href="#contact">Contact</a>
 </p>
 
@@ -45,16 +45,16 @@ I’m deeply passionate about data engineering, analytics, and distributed syste
 
 <p align="center">
   <a href="mailto:bheemasaishankarreddy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/bheema05/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/bheema-reddy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/bheema-reddy/bheema-reddy/raw/main/Overleaf_Professional_Resume_Bheema%20(1).pdf">
-    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+  <a href="https://github.com/bheema-reddy/bheema-reddy/blob/main/Overleaf_Professional_Resume_Bheema%20(1).pdf">
+    <img src="https://img.shields.io/badge/Resume-Preview-0052CC?style=for-the-badge&logo=readcv&logoColor=white" alt="Resume" />
   </a>
 </p>
 
