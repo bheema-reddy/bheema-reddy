@@ -1,27 +1,27 @@
 <p align="center">
   <a href="#about">
-    <img src="https://img.shields.io/badge/About-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About" />
+    <img src="https://img.shields.io/badge/About-000000?style=for-the-badge&logoColor=white" alt="About" />
   </a>
   <a href="#expertise">
-    <img src="https://img.shields.io/badge/Expertise-0d1117?style=for-the-badge&logo=codeforces&logoColor=white" alt="Expertise" />
+    <img src="https://img.shields.io/badge/Expertise-000000?style=for-the-badge&logoColor=white" alt="Expertise" />
   </a>
   <a href="#skills">
-    <img src="https://img.shields.io/badge/Skills-1f6feb?style=for-the-badge&logo=skillshare&logoColor=white" alt="Skills" />
+    <img src="https://img.shields.io/badge/Skills-000000?style=for-the-badge&logoColor=white" alt="Skills" />
   </a>
   <a href="#projects">
-    <img src="https://img.shields.io/badge/Projects-0366d6?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+    <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logoColor=white" alt="Projects" />
   </a>
   <a href="#education">
-    <img src="https://img.shields.io/badge/Education-1164B4?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Education" />
+    <img src="https://img.shields.io/badge/Education-000000?style=for-the-badge&logoColor=white" alt="Education" />
   </a>
   <a href="#goals">
-    <img src="https://img.shields.io/badge/Goals-5c2d91?style=for-the-badge&logo=target&logoColor=white" alt="Goals" />
+    <img src="https://img.shields.io/badge/Goals-000000?style=for-the-badge&logoColor=white" alt="Goals" />
   </a>
   <a href="#certifications">
-    <img src="https://img.shields.io/badge/Certifications-22863a?style=for-the-badge&logo=openbadges&logoColor=white" alt="Certifications" />
+    <img src="https://img.shields.io/badge/Certifications-000000?style=for-the-badge&logoColor=white" alt="Certifications" />
   </a>
   <a href="#contact">
-    <img src="https://img.shields.io/badge/Contact-333333?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact" />
+    <img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logoColor=white" alt="Contact" />
   </a>
 </p>
 
@@ -45,7 +45,7 @@
   </tr>
 </table>
 
----
+
 
 
 
@@ -60,16 +60,16 @@ I’m deeply passionate about data engineering, analytics, and distributed syste
 
 <p align="center">
   <a href="mailto:bheemasaishankarreddy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/bheema05/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/bheema-reddy">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://github.com/bheema-reddy/bheema-reddy/blob/main/Overleaf_Professional_Resume_Bheema%20(1).pdf">
-    <img src="https://img.shields.io/badge/Resume-Preview-0052CC?style=for-the-badge&logo=readcv&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readcv&logoColor=white" alt="Resume" />
   </a>
 </p>
 
@@ -88,7 +88,7 @@ I’m deeply passionate about data engineering, analytics, and distributed syste
 - Designed Spark-based ETL & lakehouse systems  
 - Handled high-volume scientific simulation data
 
----
+
 
 ## Skills
 
@@ -101,7 +101,7 @@ ETL Development, Big Data Pipelines, Data Warehousing, Visualization
 **Soft Skills**:  
 Leadership, Teamwork, Communication, Time Management
 
----
+
 
 ## Projects
 <table>
@@ -161,7 +161,7 @@ Distributed Systems, Machine Learning, Advanced AI, Reinforcement Learning, Comp
 **Electives**:  
 AI, Data Mining, IoT, Information Storage & Retrieval
 
----
+
 
 ## Goals
 
@@ -172,34 +172,39 @@ To become a **Data Engineer** or **Cloud Solutions Architect**, focused on:
 - Scalable cloud platforms  
 - Teaching & mentorship in tech
 
----
+
 
 ## Certifications
 
 - [Python 101 for Data Science – IBM](https://courses.cognitiveclass.ai/certificates/2037997e6f5c4576ad09e13fc1e30e7d)  
 - [Google Data Analytics Professional Certificate – Coursera](https://www.coursera.org/account/accomplishments/certificate/DVVWQ84AIY13)
 
----
 
 ## Contact
 
----
-
 <p align="center">
-  <a href="mailto:bheemasaishankarreddy@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  <a href="#about">
+    <img src="https://img.shields.io/badge/About-000000?style=for-the-badge&logoColor=white" alt="About" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/bheema05/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  <a href="#expertise">
+    <img src="https://img.shields.io/badge/Expertise-000000?style=for-the-badge&logoColor=white" alt="Expertise" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/bheema-reddy">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  <a href="#skills">
+    <img src="https://img.shields.io/badge/Skills-000000?style=for-the-badge&logoColor=white" alt="Skills" />
+  </a>
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logoColor=white" alt="Projects" />
+  </a>
+  <a href="#education">
+    <img src="https://img.shields.io/badge/Education-000000?style=for-the-badge&logoColor=white" alt="Education" />
+  </a>
+  <a href="#goals">
+    <img src="https://img.shields.io/badge/Goals-000000?style=for-the-badge&logoColor=white" alt="Goals" />
+  </a>
+  <a href="#certifications">
+    <img src="https://img.shields.io/badge/Certifications-000000?style=for-the-badge&logoColor=white" alt="Certifications" />
   </a>
 </p>
-
----
 
 
 ## GitHub Streak
@@ -208,7 +213,6 @@ To become a **Data Engineer** or **Cloud Solutions Architect**, focused on:
   <img src="https://streak-stats.demolab.com?user=bheema-reddy&theme=transparent&hide_border=true&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000&border_radius=10" width="500" />
 </p>
 
----
 
 ## GitHub Contribution Snake
 
