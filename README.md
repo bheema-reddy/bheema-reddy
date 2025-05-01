@@ -39,7 +39,8 @@ I’m deeply passionate about data engineering, analytics, and distributed syste
 - Building AWS-based architectures  
 - Teaching and mentoring through blogs and tutorials
 
-🔗 [LinkedIn](https://www.linkedin.com/in/bheema05/) • [GitHub](https://github.com/bheema-reddy) • [Resume](https://github.com/bheema-reddy/bheema-reddy/raw/main/Overleaf_Professional_Resume_Bheema%20(1).pdf)
+🔗 [LinkedIn](https://www.linkedin.com/in/bheema05/) • [GitHub](https://github.com/bheema-reddy) • [Resume](https://github.com/bheema-reddy/bheema-reddy/blob/main/Overleaf_Professional_Resume_Bheema%20(1).pdf)
+
 
 ---
 
