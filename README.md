@@ -1,59 +1,124 @@
 <p align="center">
   <a href="#about">
-    <img src="https://img.shields.io/badge/About-000000?style=for-the-badge&logoColor=white" alt="About" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/About-FFFFFF?style=for-the-badge&logoColor=000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/About-000000?style=for-the-badge&logoColor=white">
+      <img src="https://img.shields.io/badge/About-000000?style=for-the-badge&logoColor=white" alt="About" />
+    </picture>
   </a>
   <a href="#expertise">
-    <img src="https://img.shields.io/badge/Expertise-000000?style=for-the-badge&logoColor=white" alt="Expertise" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Expertise-FFFFFF?style=for-the-badge&logoColor=000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Expertise-000000?style=for-the-badge&logoColor=white">
+      <img src="https://img.shields.io/badge/Expertise-000000?style=for-the-badge&logoColor=white" alt="Expertise" />
+    </picture>
   </a>
   <a href="#skills">
-    <img src="https://img.shields.io/badge/Skills-000000?style=for-the-badge&logoColor=white" alt="Skills" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Skills-FFFFFF?style=for-the-badge&logoColor=000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Skills-000000?style=for-the-badge&logoColor=white">
+      <img src="https://img.shields.io/badge/Skills-000000?style=for-the-badge&logoColor=white" alt="Skills" />
+    </picture>
   </a>
   <a href="#projects">
-    <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logoColor=white" alt="Projects" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Projects-FFFFFF?style=for-the-badge&logoColor=000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logoColor=white">
+      <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logoColor=white" alt="Projects" />
+    </picture>
   </a>
   <a href="#education">
-    <img src="https://img.shields.io/badge/Education-000000?style=for-the-badge&logoColor=white" alt="Education" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Education-FFFFFF?style=for-the-badge&logoColor=000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Education-000000?style=for-the-badge&logoColor=white">
+      <img src="https://img.shields.io/badge/Education-000000?style=for-the-badge&logoColor=white" alt="Education" />
+    </picture>
   </a>
   <a href="#goals">
-    <img src="https://img.shields.io/badge/Goals-000000?style=for-the-badge&logoColor=white" alt="Goals" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Goals-FFFFFF?style=for-the-badge&logoColor=000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Goals-000000?style=for-the-badge&logoColor=white">
+      <img src="https://img.shields.io/badge/Goals-000000?style=for-the-badge&logoColor=white" alt="Goals" />
+    </picture>
   </a>
   <a href="#certifications">
-    <img src="https://img.shields.io/badge/Certifications-000000?style=for-the-badge&logoColor=white" alt="Certifications" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Certifications-FFFFFF?style=for-the-badge&logoColor=000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Certifications-000000?style=for-the-badge&logoColor=white">
+      <img src="https://img.shields.io/badge/Certifications-000000?style=for-the-badge&logoColor=white" alt="Certifications" />
+    </picture>
   </a>
   <a href="#contact">
-    <img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logoColor=white" alt="Contact" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Contact-FFFFFF?style=for-the-badge&logoColor=000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logoColor=white">
+      <img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logoColor=white" alt="Contact" />
+    </picture>
   </a>
   <a href="https://github.com/bheema-reddy/bheema-reddy/blob/main/Overleaf_Professional_Resume_Bheema%20(1).pdf">
-    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readcv&logoColor=white" alt="Resume" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=readcv&logoColor=000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readcv&logoColor=white">
+      <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readcv&logoColor=white" alt="Resume" />
+    </picture>
   </a>
 </p>
 
-
 # Hi, I'm Bheema Sai Shankar Reddy Sabilla
 
-<table width="100%">
-  <tr>
-    <td width="180" align="center" valign="top">
-      <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/Black%20and%20White%20Editor%20Image.png?raw=true" width="160" alt="Profile Image"/>
-    </td>
-    <td valign="top">
-      <strong>Graduate Student</strong> in Computer Science at the University of South Dakota  
-      <br>
-      Passionate about Data Engineering, Analytics, and Distributed Systems.  
-      <br><br>
-      - 📊 Experienced in building ETL pipelines  
-      - ☁️ AWS, Data Warehousing, Distributed Systems  
-      - 🎓 Researcher | Developer | Mentor 
-      <br><br>
-      <a href="https://bheema05-llxmmud.gamma.site/" target="_blank">
-        <img src="https://img.shields.io/badge/Seminar-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Seminar" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 
+<div align="center">
+  <table width="100%" style="max-width: 960px; border: 1px solid #e0e0e0; border-radius: 16px; background-color: #ffffff; padding: 0; margin: 24px auto; box-shadow: 0 4px 16px rgba(0,0,0,0.06);">
+    <tr>
+      <td width="32%" align="center" style="padding: 24px; border-right: 1px solid #f0f0f0;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bheema-reddy/bheema-reddy/blob/main/Black%20and%20White%20Editor%20Image.png?raw=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/bheema-reddy/bheema-reddy/blob/main/Canvas%20Editor%20Image.png?raw=true">
+          <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/Canvas%20Editor%20Image.png?raw=true" width="160" alt="Profile Image" style="border-radius: 12px; border: 1px solid #ccc;" />
+        </picture>
+        <p style="font-size: 0.9rem; margin-top: 12px; color: #555;"><strong>📍 South Dakota, USA</strong></p>
+      </td>
+      <td width="68%" style="padding: 24px; text-align: left; font-family: 'Segoe UI', sans-serif;">
+        <p style="margin: 0; font-size: 1.5rem; font-weight: 700;">
+          <strong>Bheema Sai Shankar Reddy Sabilla</strong>
+        </p>
+        <p style="margin: 4px 0 14px 0; font-size: 1.05rem; font-weight: 600; color: #444;">
+          <strong>Graduate Student</strong> | <strong>Data Engineer</strong> | <strong>AI Researcher</strong>
+        </p>
+        <p style="font-size: 0.95rem; color: #333;">
+          I’m a driven <strong>Computer Science graduate student</strong> at <strong>University of South Dakota</strong>, focused on designing intelligent, data-intensive systems that scale. With a solid foundation in <strong>ETL engineering</strong>, <strong>AWS cloud</strong>, and <strong>distributed computing</strong>, I bring both technical precision and research depth to problem-solving.
+        </p>
+        <ul style="font-size: 0.94rem; margin-left: -20px; line-height: 1.6; color: #444;">
+          <li>📊 Architected scalable <strong>ETL pipelines</strong> & data lakehouses</li>
+          <li>☁️ Designed serverless workflows using <strong>AWS Lambda, S3, Glue</strong></li>
+          <li>⚙️ Built distributed data systems for <strong>scientific HPC & analytics</strong></li>
+          <li>🤖 Researched <strong>Reinforcement Learning</strong> and <strong>xAI frameworks</strong></li>
+          <li>🧑‍🏫 Mentored peers, wrote tech tutorials & led collaborative dev projects</li>
+        </ul>
+        <p style="margin-top: 16px;">
+          <a href="https://bheema05-llxmmud.gamma.site/" target="_blank">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View%20Seminar-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=000000">
+              <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View%20Seminar-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+              <img src="https://img.shields.io/badge/View%20Seminar-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Seminar" />
+            </picture>
+          </a>
+          &nbsp;
+          <a href="https://mail.google.com/mail/?view=cm&to=bheemasaishankarreddy@gmail.com" target="_blank">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Contact%20Me-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000">
+              <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white">
+              <img src="https://img.shields.io/badge/Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+            </picture>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
+<!-- The rest of your README content follows here... -->
 
 
 ## About
@@ -84,14 +149,133 @@ I’m deeply passionate about data engineering, analytics, and distributed syste
 
 ## Skills
 
-**Languages & Tools**:  
-Python, SQL, PostgreSQL, Scala, AWS, Tableau, Power BI, Spark, Hadoop, Apache Ignite, NoSQL  
+### Languages & Tools  
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-**Core Skills**:  
-ETL Development, Big Data Pipelines, Data Warehousing, Visualization  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  </picture>
 
-**Soft Skills**:  
-Leadership, Teamwork, Communication, Time Management
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Scala-ffffff?style=for-the-badge&logo=scala&logoColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Scala-000000?style=for-the-badge&logo=scala&logoColor=white">
+    <img src="https://img.shields.io/badge/Scala-000000?style=for-the-badge&logo=scala&logoColor=white" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AWS-ffffff?style=for-the-badge&logo=amazonaws&logoColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tableau-ffffff?style=for-the-badge&logo=tableau&logoColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=white">
+    <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=white" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PowerBI-ffffff?style=for-the-badge&logo=powerbi&logoColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=white">
+    <img src="https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Spark-ffffff?style=for-the-badge&logo=apachespark&logoColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Spark-000000?style=for-the-badge&logo=apachespark&logoColor=white">
+    <img src="https://img.shields.io/badge/Spark-000000?style=for-the-badge&logo=apachespark&logoColor=white" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Hadoop-ffffff?style=for-the-badge&logo=apachehadoop&logoColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Hadoop-000000?style=for-the-badge&logo=apachehadoop&logoColor=white">
+    <img src="https://img.shields.io/badge/Hadoop-000000?style=for-the-badge&logo=apachehadoop&logoColor=white" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NoSQL-ffffff?style=for-the-badge&logo=mongodb&logoColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </picture>
+
+</div>
+
+---
+
+###  Core Skills  
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ETL-ffffff?style=for-the-badge&logo=dataiku&logoColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/ETL-000000?style=for-the-badge&logo=dataiku&logoColor=white">
+    <img src="https://img.shields.io/badge/ETL-000000?style=for-the-badge&logo=dataiku&logoColor=white" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Big%20Data-ffffff?style=for-the-badge&logo=databricks&logoColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Big%20Data-000000?style=for-the-badge&logo=databricks&logoColor=white">
+    <img src="https://img.shields.io/badge/Big%20Data-000000?style=for-the-badge&logo=databricks&logoColor=white" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Data%20Warehousing-ffffff?style=for-the-badge&logo=snowflake&logoColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Data%20Warehousing-000000?style=for-the-badge&logo=snowflake&logoColor=white">
+    <img src="https://img.shields.io/badge/Data%20Warehousing-000000?style=for-the-badge&logo=snowflake&logoColor=white" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Visualization-ffffff?style=for-the-badge&logo=chartdotjs&logoColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Visualization-000000?style=for-the-badge&logo=chartdotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/Visualization-000000?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  </picture>
+
+</div>
+
+---
+
+###  Soft Skills  
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Leadership-ffffff?style=for-the-badge&logoColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Leadership-000000?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Leadership-000000?style=for-the-badge&logoColor=white" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Teamwork-ffffff?style=for-the-badge&logoColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Teamwork-000000?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Teamwork-000000?style=for-the-badge&logoColor=white" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Communication-ffffff?style=for-the-badge&logoColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Communication-000000?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Communication-000000?style=for-the-badge&logoColor=white" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Time%20Management-ffffff?style=for-the-badge&logoColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Time%20Management-000000?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Time%20Management-000000?style=for-the-badge&logoColor=white" />
+  </picture>
+
+</div>
+
 
 
 
@@ -175,18 +359,24 @@ To become a **Data Engineer** or **Cloud Solutions Architect**, focused on:
 Got a project waiting to be realized? Let's collaborate and make it happen!
 <p align="center">
   <a href="mailto:bheemasaishankarreddy@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email%20Me-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white">
+      <img src="https://img.shields.io/badge/Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+    </picture>
   </a>
 </p>
 
 
-
-
 ## GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bheema-reddy&theme=transparent&hide_border=true&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000&border_radius=10" width="500" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bheema-reddy&theme=dark&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=bheema-reddy&theme=default&hide_border=true&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000&border_radius=10" />
+    <img src="https://streak-stats.demolab.com?user=bheema-reddy&theme=default&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  </picture>
 </p>
+
 
 
 ## GitHub Contribution Snake
