@@ -23,6 +23,9 @@
   <a href="#contact">
     <img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logoColor=white" alt="Contact" />
   </a>
+  <a href="https://github.com/bheema-reddy/bheema-reddy/blob/main/Overleaf_Professional_Resume_Bheema%20(1).pdf">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readcv&logoColor=white" alt="Resume" />
+  </a>
 </p>
 
 
@@ -40,7 +43,11 @@
       <br><br>
       - 📊 Experienced in building ETL pipelines  
       - ☁️ AWS, Data Warehousing, Distributed Systems  
-      - 🎓 Researcher | Developer | Mentor  
+      - 🎓 Researcher | Developer | Mentor 
+      <br><br>
+      <a href="https://bheema05-llxmmud.gamma.site/" target="_blank">
+        <img src="https://img.shields.io/badge/Seminar-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Seminar" />
+      </a>
     </td>
   </tr>
 </table>
@@ -57,21 +64,6 @@ I’m deeply passionate about data engineering, analytics, and distributed syste
 - Managing data lakes and warehouses  
 - Building AWS-based architectures  
 - Teaching and mentoring through blogs and tutorials
-
-<p align="center">
-  <a href="mailto:bheemasaishankarreddy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/bheema05/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/bheema-reddy">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/bheema-reddy/bheema-reddy/blob/main/Overleaf_Professional_Resume_Bheema%20(1).pdf">
-    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readcv&logoColor=white" alt="Resume" />
-  </a>
-</p>
 
 ## Expertise
 
