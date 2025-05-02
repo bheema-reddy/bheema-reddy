@@ -118,8 +118,6 @@
   </table>
 </div>
 
-<!-- The rest of your README content follows here... -->
-
 
 ## About
 
@@ -358,13 +356,13 @@ To become a **Data Engineer** or **Cloud Solutions Architect**, focused on:
 ## Contact
 Got a project waiting to be realized? Let's collaborate and make it happen!
 <p align="center">
-  <a href="mailto:bheemasaishankarreddy@gmail.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email%20Me-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white">
-      <img src="https://img.shields.io/badge/Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-    </picture>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=bheemasaishankarreddy@gmail.com" target="_blank">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Contact%20Me-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000">
+              <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white">
+              <img src="https://img.shields.io/badge/Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+            </picture>
+          </a>
 </p>
 
 
