@@ -179,32 +179,15 @@ To become a **Data Engineer** or **Cloud Solutions Architect**, focused on:
 - [Python 101 for Data Science – IBM](https://courses.cognitiveclass.ai/certificates/2037997e6f5c4576ad09e13fc1e30e7d)  
 - [Google Data Analytics Professional Certificate – Coursera](https://www.coursera.org/account/accomplishments/certificate/DVVWQ84AIY13)
 
-
 ## Contact
-
+Got a project waiting to be realized? Let's collaborate and make it happen!
 <p align="center">
-  <a href="#about">
-    <img src="https://img.shields.io/badge/About-000000?style=for-the-badge&logoColor=white" alt="About" />
-  </a>
-  <a href="#expertise">
-    <img src="https://img.shields.io/badge/Expertise-000000?style=for-the-badge&logoColor=white" alt="Expertise" />
-  </a>
-  <a href="#skills">
-    <img src="https://img.shields.io/badge/Skills-000000?style=for-the-badge&logoColor=white" alt="Skills" />
-  </a>
-  <a href="#projects">
-    <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logoColor=white" alt="Projects" />
-  </a>
-  <a href="#education">
-    <img src="https://img.shields.io/badge/Education-000000?style=for-the-badge&logoColor=white" alt="Education" />
-  </a>
-  <a href="#goals">
-    <img src="https://img.shields.io/badge/Goals-000000?style=for-the-badge&logoColor=white" alt="Goals" />
-  </a>
-  <a href="#certifications">
-    <img src="https://img.shields.io/badge/Certifications-000000?style=for-the-badge&logoColor=white" alt="Certifications" />
+  <a href="mailto:bheemasaishankarreddy@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
 </p>
+
+
 
 
 ## GitHub Streak
