@@ -96,26 +96,43 @@
           <li>🤖 Researched <strong>Reinforcement Learning</strong> and <strong>xAI frameworks</strong></li>
           <li>🧑‍🏫 Mentored peers, wrote tech tutorials & led collaborative dev projects</li>
         </ul>
-        <p style="margin-top: 16px;">
-          <a href="https://bheema05-llxmmud.gamma.site/" target="_blank">
-            <picture>
-              <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View%20Seminar-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=000000">
-              <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View%20Seminar-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
-              <img src="https://img.shields.io/badge/View%20Seminar-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Seminar" />
-            </picture>
-          </a>
-          &nbsp;
-          <a href="https://mail.google.com/mail/?view=cm&to=bheemasaishankarreddy@gmail.com" target="_blank">
-            <picture>
-              <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Contact%20Me-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000">
-              <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white">
-              <img src="https://img.shields.io/badge/Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-            </picture>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+        <div style="margin-top: 16px;">
+  <a href="https://bheema05-llxmmud.gamma.site/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View%20Seminar-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View%20Seminar-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+      <img src="https://img.shields.io/badge/View%20Seminar-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Seminar" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&to=bheemasaishankarreddy@gmail.com" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Contact%20Me-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white">
+      <img src="https://img.shields.io/badge/Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/bheema05" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://github.com/bheema-reddy" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </picture>
+  </a>
+</div>
+
+</td>
+</tr>
+</table>
 </div>
 
 
