@@ -1,403 +1,117 @@
 <p align="center">
-  <a href="#about">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/About-FFFFFF?style=for-the-badge&logoColor=000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/About-000000?style=for-the-badge&logoColor=white">
-      <img src="https://img.shields.io/badge/About-000000?style=for-the-badge&logoColor=white" alt="About" />
-    </picture>
-  </a>
-  <a href="#expertise">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Expertise-FFFFFF?style=for-the-badge&logoColor=000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Expertise-000000?style=for-the-badge&logoColor=white">
-      <img src="https://img.shields.io/badge/Expertise-000000?style=for-the-badge&logoColor=white" alt="Expertise" />
-    </picture>
-  </a>
-  <a href="#skills">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Skills-FFFFFF?style=for-the-badge&logoColor=000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Skills-000000?style=for-the-badge&logoColor=white">
-      <img src="https://img.shields.io/badge/Skills-000000?style=for-the-badge&logoColor=white" alt="Skills" />
-    </picture>
-  </a>
-  <a href="#projects">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Projects-FFFFFF?style=for-the-badge&logoColor=000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logoColor=white">
-      <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logoColor=white" alt="Projects" />
-    </picture>
-  </a>
-  <a href="#education">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Education-FFFFFF?style=for-the-badge&logoColor=000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Education-000000?style=for-the-badge&logoColor=white">
-      <img src="https://img.shields.io/badge/Education-000000?style=for-the-badge&logoColor=white" alt="Education" />
-    </picture>
-  </a>
-  <a href="#goals">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Goals-FFFFFF?style=for-the-badge&logoColor=000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Goals-000000?style=for-the-badge&logoColor=white">
-      <img src="https://img.shields.io/badge/Goals-000000?style=for-the-badge&logoColor=white" alt="Goals" />
-    </picture>
-  </a>
-  <a href="#certifications">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Certifications-FFFFFF?style=for-the-badge&logoColor=000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Certifications-000000?style=for-the-badge&logoColor=white">
-      <img src="https://img.shields.io/badge/Certifications-000000?style=for-the-badge&logoColor=white" alt="Certifications" />
-    </picture>
-  </a>
-  <a href="#contact">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Contact-FFFFFF?style=for-the-badge&logoColor=000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logoColor=white">
-      <img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logoColor=white" alt="Contact" />
-    </picture>
-  </a>
+  <a href="#about"><img src="https://img.shields.io/badge/About-000000?style=for-the-badge&logoColor=white" /></a>
+  <a href="#experience"><img src="https://img.shields.io/badge/Experience-000000?style=for-the-badge&logoColor=white" /></a>
+  <a href="#skills"><img src="https://img.shields.io/badge/Skills-000000?style=for-the-badge&logoColor=white" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logoColor=white" /></a>
+  <a href="#education"><img src="https://img.shields.io/badge/Education-000000?style=for-the-badge&logoColor=white" /></a>
+  <a href="#certifications"><img src="https://img.shields.io/badge/Certifications-000000?style=for-the-badge&logoColor=white" /></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logoColor=white" /></a>
   <a href="https://github.com/bheema-reddy/bheema-reddy/blob/main/Overleaf_Professional_Resume_Bheema%20(1).pdf">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=readcv&logoColor=000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readcv&logoColor=white">
-      <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readcv&logoColor=white" alt="Resume" />
-    </picture>
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readcv&logoColor=white" />
   </a>
 </p>
 
-# Hi, I'm Bheema Sai Shankar Reddy Sabilla
+# Hi, I'm Bheema Sai Shankar Reddy Sabilla 👋
 
+I’m a **Data Engineer with 3+ years of experience** designing, building, and optimizing **scalable batch and streaming data systems** on modern cloud lakehouse platforms.
 
+My core expertise includes **Python, SQL, PySpark, Azure Databricks, Delta Lake, Spark Structured Streaming, and Microsoft Fabric**, with hands-on experience delivering **real-time analytics pipelines, governed data models, and AI-enabled data platforms** in production environments.
 
-<div align="center">
-  <table width="100%" style="max-width: 960px; border: 1px solid #e0e0e0; border-radius: 16px; background-color: #ffffff; padding: 0; margin: 24px auto; box-shadow: 0 4px 16px rgba(0,0,0,0.06);">
-    <tr>
-      <td width="32%" align="center" style="padding: 24px; border-right: 1px solid #f0f0f0;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bheema-reddy/bheema-reddy/blob/main/Black%20and%20White%20Editor%20Image.png?raw=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github.com/bheema-reddy/bheema-reddy/blob/main/Canvas%20Editor%20Image.png?raw=true">
-          <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/Canvas%20Editor%20Image.png?raw=true" width="160" alt="Profile Image" style="border-radius: 12px; border: 1px solid #ccc;" />
-        </picture>
-        <p style="font-size: 0.9rem; margin-top: 12px; color: #555;"><strong>📍 South Dakota, USA</strong></p>
-      </td>
-      <td width="68%" style="padding: 24px; text-align: left; font-family: 'Segoe UI', sans-serif;">
-        <p style="margin: 0; font-size: 1.5rem; font-weight: 700;">
-          <strong>Bheema Sai Shankar Reddy Sabilla</strong>
-        </p>
-        <p style="margin: 4px 0 14px 0; font-size: 1.05rem; font-weight: 600; color: #444;">
-          <strong>Graduate Student</strong> | <strong>Data Engineer</strong> | <strong>AI Researcher</strong>
-        </p>
-        <p style="font-size: 0.95rem; color: #333;">
-          I’m a driven <strong>Computer Science graduate student</strong> at <strong>University of South Dakota</strong>, focused on designing intelligent, data-intensive systems that scale. With a solid foundation in <strong>ETL engineering</strong>, <strong>AWS cloud</strong>, and <strong>distributed computing</strong>, I bring both technical precision and research depth to problem-solving.
-        </p>
-        <ul style="font-size: 0.94rem; margin-left: -20px; line-height: 1.6; color: #444;">
-          <li>📊 Architected scalable <strong>ETL pipelines</strong> & data lakehouses</li>
-          <li>☁️ Designed serverless workflows using <strong>AWS Lambda, S3, Glue</strong></li>
-          <li>⚙️ Built distributed data systems for <strong>scientific HPC & analytics</strong></li>
-          <li>🤖 Researched <strong>Reinforcement Learning</strong> and <strong>xAI frameworks</strong></li>
-          <li>🧑‍🏫 Mentored peers, wrote tech tutorials & led collaborative dev projects</li>
-        </ul>
-        <div style="margin-top: 16px;">
-  <a href="https://bheema05-llxmmud.gamma.site/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View%20Seminar-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View%20Seminar-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
-      <img src="https://img.shields.io/badge/View%20Seminar-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Seminar" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&to=bheemasaishankarreddy@gmail.com" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Contact%20Me-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white">
-      <img src="https://img.shields.io/badge/Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/bheema05" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://github.com/bheema-reddy" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </picture>
-  </a>
-</div>
-
-</td>
-</tr>
-</table>
-</div>
-
+---
 
 ## About
 
-I’m deeply passionate about data engineering, analytics, and distributed systems.
+I specialize in building **production-grade data platforms** that power analytics, reporting, and downstream machine learning workloads.
 
-- Designing ETL pipelines  
-- Managing data lakes and warehouses  
-- Building AWS-based architectures  
-- Teaching and mentoring through blogs and tutorials
+My work focuses on:
+- Designing **ETL / ELT pipelines** using Spark, Databricks, and Azure Data Factory  
+- Implementing **lakehouse architectures** with Delta Lake and Medallion patterns  
+- Building **real-time streaming pipelines** with event-time processing  
+- Ensuring **data quality, observability, and SLA compliance**  
+- Enabling **LLM / RAG systems** on top of curated enterprise data  
 
-## Expertise
+I value **correctness, scalability, and maintainability** in data systems.
 
-**Data Analyst Intern – Futurense Technologies**  
-- Built scalable ETL pipelines  
-- Automated AWS Lambda workflows  
-- Created Tableau & QuickSight dashboards
+---
 
-**Applied AI Lab (2AI), USD**  
-- Research on reinforcement learning & optimization  
-- Prototype experimentation & documentation
+## Experience
 
-**Graduate Research Assistant – USD**  
-- Designed Spark-based ETL & lakehouse systems  
-- Handled high-volume scientific simulation data
+### Data Engineer – AI/ML | Discover Financial (Remote)
+- Designed and operated PySpark and Azure Databricks pipelines supporting fraud detection, credit risk, and marketing analytics  
+- Built real-time ingestion pipelines using Kafka/Event Hubs and Spark Structured Streaming  
+- Developed ML-ready feature datasets using Delta Lake with schema enforcement and monitoring  
+- Implemented aggregation and reconciliation logic to ensure reporting accuracy  
+- Partnered with data scientists and analysts to operationalize feature pipelines  
+- Improved pipeline performance and reduced compute cost through Spark tuning  
 
+---
 
+### Data Engineer | University of South Dakota
+- Engineered Delta Lake pipelines processing 400M+ weekly records  
+- Implemented Medallion Architecture with automated validation and schema evolution  
+- Built monitoring workflows improving pipeline SLA from 93% to 99%  
+- Delivered analytics-ready datasets for reporting and research use cases  
+
+---
+
+### Data Engineer | Hexaware Technologies
+- Built enterprise ETL/ELT pipelines using Azure Data Factory, Databricks, ADLS, and Snowflake  
+- Implemented incremental ingestion and CDC patterns supporting near-real-time analytics  
+- Designed dimensional data models enabling self-service analytics and Power BI dashboards  
+- Supported production pipelines through backfills, optimization, and incident resolution  
+
+---
 
 ## Skills
 
-### Languages & Tools  
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Scala-ffffff?style=for-the-badge&logo=scala&logoColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Scala-000000?style=for-the-badge&logo=scala&logoColor=white">
-    <img src="https://img.shields.io/badge/Scala-000000?style=for-the-badge&logo=scala&logoColor=white" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AWS-ffffff?style=for-the-badge&logo=amazonaws&logoColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tableau-ffffff?style=for-the-badge&logo=tableau&logoColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=white">
-    <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=white" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PowerBI-ffffff?style=for-the-badge&logo=powerbi&logoColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=white">
-    <img src="https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Spark-ffffff?style=for-the-badge&logo=apachespark&logoColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Spark-000000?style=for-the-badge&logo=apachespark&logoColor=white">
-    <img src="https://img.shields.io/badge/Spark-000000?style=for-the-badge&logo=apachespark&logoColor=white" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Hadoop-ffffff?style=for-the-badge&logo=apachehadoop&logoColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Hadoop-000000?style=for-the-badge&logo=apachehadoop&logoColor=white">
-    <img src="https://img.shields.io/badge/Hadoop-000000?style=for-the-badge&logo=apachehadoop&logoColor=white" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NoSQL-ffffff?style=for-the-badge&logo=mongodb&logoColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
-  </picture>
-
-</div>
+**Programming & Query:** Python, SQL, PySpark  
+**Python Libraries:** Pandas, NumPy  
+**Big Data & Streaming:** Apache Spark, Spark Structured Streaming, Kafka  
+**Cloud Platforms:** Azure (Databricks, Data Factory, ADLS Gen2, Event Hubs), Microsoft Fabric, AWS (S3, Glue)  
+**Lakehouse & Warehousing:** Delta Lake, Medallion Architecture, Snowflake  
+**Analytics Engineering:** dbt (Core)  
+**Data Modeling:** Star Schema, Slowly Changing Dimensions (SCD Type 1 & 2)  
+**SQL Optimization:** Window Functions, CTEs, Query Optimization  
+**Analytics & BI:** Power BI, Semantic Models, KPI Design  
+**Data Quality & Observability:** Schema Enforcement, Data Validation, SLA Monitoring, Unity Catalog  
+**Orchestration & DevOps:** Apache Airflow, GitHub Actions, CI/CD, Docker (Foundational)  
+**AI / LLM Systems:** Retrieval-Augmented Generation (RAG), BM25, FAISS, Cross-Encoders  
 
 ---
 
-###  Core Skills  
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ETL-ffffff?style=for-the-badge&logo=dataiku&logoColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/ETL-000000?style=for-the-badge&logo=dataiku&logoColor=white">
-    <img src="https://img.shields.io/badge/ETL-000000?style=for-the-badge&logo=dataiku&logoColor=white" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Big%20Data-ffffff?style=for-the-badge&logo=databricks&logoColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Big%20Data-000000?style=for-the-badge&logo=databricks&logoColor=white">
-    <img src="https://img.shields.io/badge/Big%20Data-000000?style=for-the-badge&logo=databricks&logoColor=white" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Data%20Warehousing-ffffff?style=for-the-badge&logo=snowflake&logoColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Data%20Warehousing-000000?style=for-the-badge&logo=snowflake&logoColor=white">
-    <img src="https://img.shields.io/badge/Data%20Warehousing-000000?style=for-the-badge&logo=snowflake&logoColor=white" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Visualization-ffffff?style=for-the-badge&logo=chartdotjs&logoColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Visualization-000000?style=for-the-badge&logo=chartdotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/Visualization-000000?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  </picture>
-
-</div>
-
----
-
-###  Soft Skills  
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Leadership-ffffff?style=for-the-badge&logoColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Leadership-000000?style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/Leadership-000000?style=for-the-badge&logoColor=white" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Teamwork-ffffff?style=for-the-badge&logoColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Teamwork-000000?style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/Teamwork-000000?style=for-the-badge&logoColor=white" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Communication-ffffff?style=for-the-badge&logoColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Communication-000000?style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/Communication-000000?style=for-the-badge&logoColor=white" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Time%20Management-ffffff?style=for-the-badge&logoColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Time%20Management-000000?style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/Time%20Management-000000?style=for-the-badge&logoColor=white" />
-  </picture>
-
-</div>
-
-
-
-
-## Projects
-<table>
-  <tr>
-    <td width="32%">
-      <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/doe.png?raw=true" width="100%">
-      <br>
-      <a href="https://github.com/bheema-reddy/Research-Project-DOE"><strong>Research Project: DOE</strong></a><br>
-      Designed a streamlined Apache Ignite data pipeline to manage scientific HPC workloads for DOE, with automated data integration and centralized orchestration.
-    </td>
-    <td width="32%">
-      <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/distributed.png?raw=true" width="100%">
-      <br>
-      <a href="https://github.com/bheema-reddy/distributed-computing"><strong>Distributed Computing</strong></a><br>
-      Simulations and performance comparisons of parallel & distributed algorithms using Python. Focus on synchronization, task scheduling, and memory.
-    </td>
-    <td width="32%">
-      <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/network.png?raw=true" width="100%">
-      <br>
-      <a href="https://github.com/bheema-reddy/Network-Traffic-Analysis-"><strong>Network Traffic Analysis</strong></a><br>
-      Python tool to analyze .pcap files, extract metrics like bandwidth & protocol distribution, visualize data, with CLI support.
-    </td>
-  </tr>
-  <tr>
-    <td width="32%">
-      <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/sentiment.png?raw=true" width="100%">
-      <br>
-      <a href="https://github.com/bheema-reddy/Sentiment_Analysis"><strong>Sentiment Analysis</strong></a><br>
-      Classifier built on text datasets using TF-IDF and logistic regression in scikit-learn. Includes training, prediction, and evaluation pipeline.
-    </td>
-    <td width="32%">
-      <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/movienlp.png?raw=true" width="100%">
-      <br>
-      <a href="https://github.com/bheema-reddy/Movie-Review-Sentiment-Analysis"><strong>Movie Review Sentiment Analysis</strong></a><br>
-      Full NLP pipeline in Jupyter Notebook for preprocessing, vectorizing, and training classifiers on movie reviews using TF-IDF & logistic regression.
-    </td>
-    <td width="32%">
-      <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/cnn.png?raw=true" width="100%">
-      <br>
-      <a href="https://github.com/bheema-reddy/CNN-Implementation-"><strong>CNN Implementation</strong></a><br>
-      Convolutional architectures built from scratch with TensorFlow/Keras. Focused on image classification and visualizing feature maps.
-    </td>
-  </tr>
-</table>
+## Projects <table> <tr> <td width="32%"> <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/doe.png?raw=true" width="100%"> <br> <a href="https://github.com/bheema-reddy/Research-Project-DOE"><strong>Research Project: DOE</strong></a><br> Designed a streamlined Apache Ignite data pipeline to manage scientific HPC workloads for DOE, with automated data integration and centralized orchestration. </td> <td width="32%"> <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/distributed.png?raw=true" width="100%"> <br> <a href="https://github.com/bheema-reddy/distributed-computing"><strong>Distributed Computing</strong></a><br> Simulations and performance comparisons of parallel & distributed algorithms using Python. Focus on synchronization, task scheduling, and memory. </td> <td width="32%"> <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/network.png?raw=true" width="100%"> <br> <a href="https://github.com/bheema-reddy/Network-Traffic-Analysis-"><strong>Network Traffic Analysis</strong></a><br> Python tool to analyze .pcap files, extract metrics like bandwidth & protocol distribution, visualize data, with CLI support. </td> </tr> <tr> <td width="32%"> <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/sentiment.png?raw=true" width="100%"> <br> <a href="https://github.com/bheema-reddy/Sentiment_Analysis"><strong>Sentiment Analysis</strong></a><br> Classifier built on text datasets using TF-IDF and logistic regression in scikit-learn. Includes training, prediction, and evaluation pipeline. </td> <td width="32%"> <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/movienlp.png?raw=true" width="100%"> <br> <a href="https://github.com/bheema-reddy/Movie-Review-Sentiment-Analysis"><strong>Movie Review Sentiment Analysis</strong></a><br> Full NLP pipeline in Jupyter Notebook for preprocessing, vectorizing, and training classifiers on movie reviews using TF-IDF & logistic regression. </td> <td width="32%"> <img src="https://github.com/bheema-reddy/bheema-reddy/blob/main/cnn.png?raw=true" width="100%"> <br> <a href="https://github.com/bheema-reddy/CNN-Implementation-"><strong>CNN Implementation</strong></a><br> Convolutional architectures built from scratch with TensorFlow/Keras. Focused on image classification and visualizing feature maps. </td> </tr> </table>
 
 ## Education
 
-**M.S. in Computer Science** – University of South Dakota  
-**B.Tech in CSE** – TKR College of Engineering & Technology
+**Master of Science in Computer Science** – University of South Dakota  
+**Bachelor of Technology in Computer Science** – Jawaharlal Nehru Technological University  
 
-**Graduate Seminar**:  
-Presented on xAI’s Grok 3 & Super Grok – DeepSearch, STEM, H100 GPUs
-
-**Core Courses**:  
-Distributed Systems, Machine Learning, Advanced AI, Reinforcement Learning, Computer Vision  
-
-**Electives**:  
-AI, Data Mining, IoT, Information Storage & Retrieval
-
-
-
-## Goals
-
-To become a **Data Engineer** or **Cloud Solutions Architect**, focused on:
-
-- Real-time systems  
-- Serverless architecture  
-- Scalable cloud platforms  
-- Teaching & mentorship in tech
-
-
+---
 
 ## Certifications
 
-- [Python 101 for Data Science – IBM](https://courses.cognitiveclass.ai/certificates/2037997e6f5c4576ad09e13fc1e30e7d)  
-- [Google Data Analytics Professional Certificate – Coursera](https://www.coursera.org/account/accomplishments/certificate/DVVWQ84AIY13)
+- Google Data Analytics Professional – Coursera  
+- Python for Data Science – IBM  
+- SQL for Data Science – Udemy  
+- Azure Databricks  
+- Azure Data Factory  
+
+---
 
 ## Contact
-Got a project waiting to be realized? Let's collaborate and make it happen!
+
+Interested in collaborating or discussing data engineering problems?
+
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&to=bheemasaishankarreddy@gmail.com" target="_blank">
-            <picture>
-              <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Contact%20Me-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000">
-              <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white">
-              <img src="https://img.shields.io/badge/Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-            </picture>
-          </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=bheemasaishankarreddy@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
+---
 
-## GitHub Streak
+## GitHub Activity
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bheema-reddy&theme=dark&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=bheema-reddy&theme=default&hide_border=true&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000&border_radius=10" />
-    <img src="https://streak-stats.demolab.com?user=bheema-reddy&theme=default&hide_border=true&border_radius=10" alt="GitHub Streak" />
-  </picture>
+  <img src="https://github.com/bheema-reddy/bheema-reddy/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
-
-
-## GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bheema-reddy/bheema-reddy/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/bheema-reddy/bheema-reddy/blob/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://github.com/bheema-reddy/bheema-reddy/blob/output/github-contribution-grid-snake.svg">
-</picture>
